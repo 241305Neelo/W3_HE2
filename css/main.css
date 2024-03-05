@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topNav{
+    overflow: hidden;
+    background-color: #333;
+}
+
+.topNav a{
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topNavRight{
+    float: right;
+}
+
+.topNav a:hover{
+    background-color: #ddd;
+    color: black;
+}
+
+.topNav a.active{
+    background-color: #04aa6d;
+    color: white;
+}
+
+header img {
+    width: 100%;
+    display: black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    opacity: 0.75;
+    border-radius: 12px;
+}
+
+.imgTextOverlay{
+    position: relative;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 40px;
+}
+
+.imgTextOverlay img{
+    width: 100%;
+}
+
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+<!--started to stuggles with text wrapping-->
+.text-box{
+    
+}
+
+.wrapper{
+   margin: ;
+   width
+}
